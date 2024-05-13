@@ -452,7 +452,7 @@ contact.html
 ![Screenshot 2024-05-13 184751](https://github.com/vksachin2018/Pharma/assets/149366019/577703cc-66ab-456c-bcb9-5fefff1505ea)
 
 #### Products page:
-![Screenshot 2024-05-13 184927](https://github.com/vksachin2018/Pharma/assets/149366019/5908725c-6d8b-464f-af2b-3eafdda16ca2)
+![image](https://github.com/vksachin2018/Pharma/assets/149366019/c5a1f5d0-3a80-4523-bf1e-9eb7162079e4)
 
 #### Contact page:
 ![Screenshot 2024-05-13 185034](https://github.com/vksachin2018/Pharma/assets/149366019/60dd33d2-ec1a-4eac-a145-faa37219a1e4)
